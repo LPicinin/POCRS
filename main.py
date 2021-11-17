@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-import imutils
 import streamlit as st
 
 from utils import encontrar_contornos, ordenar_pontos
